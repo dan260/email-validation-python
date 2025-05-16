@@ -9,5 +9,3 @@ A lightweight and fast API built with FastAPI to validate email addresses. It ch
 - Fast and reliable email validation.
 - Easy integration into existing projects.
 - Comprehensive error handling.
-
-[🔗 View Project](https://github.com/dan260/email-validation-python)
