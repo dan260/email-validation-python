@@ -1,4 +1,4 @@
-### 2. [Email Validator API](https://github.com/dan260/email-validation-python)
+### [Email Validator API](https://github.com/dan260/email-validation-python)
 > **Category:** Small Utility Project  
 > **Technologies:** Python, FastAPI
 
